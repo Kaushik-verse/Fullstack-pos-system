@@ -1,0 +1,30 @@
+# IntelliJ / JetBrains IDE
+.idea/
+*.iml
+
+# macOS system files
+.DS_Store
+
+# Maven / Gradle build
+target/
+build/
+*.class
+
+# Node / Frontend
+node_modules/
+dist/
+npm-debug.log
+yarn-error.log
+
+# Environment / config
+.env
+*.env
+
+# Logs
+*.log
+
+# OS generated files
+Thumbs.db
+
+# VS Code
+.vscode/
